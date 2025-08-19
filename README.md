@@ -5,17 +5,17 @@ I'm a passionate Computer Science Engineering student at ADYPU, a Certified Ethi
 ---
 
 🔭 Currently Working On
-- MERN / MEAN Stack Projects**: Building web apps and developer platforms.  
-- AI & SaaS Tools**: AI Resume & Cover Letter Builder.  
-- Mental Health Monitoring System**: Analyzing mental conditions with tech.  
+- MERN / MEAN Stack Projects: Building web apps and developer platforms.  
+- AI & SaaS Tools: AI Resume & Cover Letter Builder.  
+- Mental Health Monitoring System: Analyzing mental conditions with tech.  
 
 ---
 
 🌱 Skills & Technologies
-- Languages**: JavaScript, Python, Java  
-- Frameworks**: MERN Stack (MongoDB, Express, React, Node), MEAN Stack  
-- Other Tools**: Microsoft, SAP, Azure  
-- Certifications**: CEH, CompTIA A+, Security+, Infosys Java Developer, Microsoft Azure  
+- Languages: JavaScript, Python, Java  
+- Frameworks: MERN Stack (MongoDB, Express, React, Node), MEAN Stack  
+- Other Tools: Microsoft, SAP, Azure  
+- Certifications: CEH, CompTIA A+, Security+, Infosys Java Developer, Microsoft Azure  
 
 ---
 
