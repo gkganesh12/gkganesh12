@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gkganesh12&label=Profile%20Views&color=blue&style=flat)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ganesh%20Khetawat-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ganeshkhetawat/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](http://ganeshkhetawat.unaux.com/portfolio)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)]([http://ganeshkhetawat.unaux.com/portfolio](https://mac-os-portfolio-one-delta.vercel.app/))  
 [![GitHub](https://img.shields.io/badge/GitHub-gkganesh12-black?style=flat&logo=github)](https://github.com/gkganesh12)  
 
 ---
