@@ -139,6 +139,16 @@ I’m a **B.Tech CSE student at ADYPU (CGPA: 9.2)** building **full-stack produc
 
 ---
 
+### 🩺 Breast Cancer Prediction Model
+🔗 **Live App:** https://breastcancer-gk.streamlit.app/  
+📦 **GitHub Repo:** https://github.com/gkganesh12/Breast_cancer_Prediction_model  
+
+- ML-based classifier to predict **Benign vs Malignant** from input features.
+- End-to-end pipeline: **data preprocessing → training → evaluation → interactive inference UI**.
+- Built with **Python, scikit-learn, pandas, Streamlit** (deploy-ready).
+
+---
+
 ### 🧠 GK’s Vibe Context
 - 💻 Repo: https://github.com/gkganesh12/Gk-s-Vibe-context  
 - 📝 Developer workflow concept/tool to capture coding context, intent, and decisions during builds.
